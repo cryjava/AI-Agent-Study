@@ -13,9 +13,11 @@
 | Day | 主题 | 状态 |
 |-----|------|------|
 | 01 | Python 语法速成（上） | 🚧 进行中 |
-| 02 | Python 语法速成（下）+ 工程习惯 | ⬜ |
+| 02 | Python 语法速成（下）+ 工程习惯 | 🚧 进行中 |
 | 03 | 常用库三件套 + FastAPI | ⬜ |
 | 04 | LLM 工作原理 + 第一次 API 调用 | ⬜ |
 | 05 | Prompt Engineering 刻意练习 | ⬜ |
 | 06 | 手写 Function Calling 循环 | ⬜ |
 | 07 | Embedding 初探 + 第一周复盘 | ⬜ |
+
+Day 2 入口：[`day02/README.md`](day02/README.md)，先做函数练习的第 1、2 题。
